@@ -18,6 +18,7 @@ public class Newproject {
         int a=20,b=50,c=10;
         System.out.println(Math.max(a,b));
         System.out.println(Math.min(c, b));
+        System.out.println("this is max and minimum");
     }
     
 }
